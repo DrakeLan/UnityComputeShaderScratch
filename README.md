@@ -1,4 +1,4 @@
-# UnityComputeShaderScratch
+# Unity Compute Shader Scratch
  
  It's my personal compute shader practice project.
  
